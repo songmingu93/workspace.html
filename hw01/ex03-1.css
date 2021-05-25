@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+
+body, div, ul, li, dl, dt, ol, h1, h2, h3, h4, h5, h6, input, 
+fieldset, legend, p, select, table, th, td, tr, textarea, button, form {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    font-family: "맑은 고딕", 돋움;
+    font-size: 12px;}
+
+.A {
+    width: 900px;
+}
+
+
+label {
+    width: 80px;
+    display: inline-block;
+    border: 1px solid #000000;
+}
+
+.H {
+    width: 80px;
+    margin: 0px 50px 0px 0px;
+}
+
+.SA {
+    padding: 5px 5px 5px 5px;
+    border-top: 1px solid #e6e6e6;
+    width: 700px;
+}
+
+.CC {
+    width: 200px;
+}
+
+#B{ 
+    border-top: 1px solid #e6e6e6;}
+
+.C { 
+    margin: 5px 0px 5px 84px;
+    width: 220px;
+}
+
+
+
+
+.form-text {
+    width: 80px;
+    display: inline-block;
+
+
+}
+
+
+input[type="radio"] {
+    display: block;
+}
+
+
+#DG {width: 100px;
+        height: 100px; 
+    }
+
+.P {
+    width: 700px;
+    margin: 20px 0px 0px 0px;
+    padding: 10px 0px 0px 0px;
+    border-top: 1px solid #e6e6e6 ;
+    text-align: center;
+}
+
+

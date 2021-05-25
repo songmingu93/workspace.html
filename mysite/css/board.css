@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+#board #search-area {
+    margin: 0px 0px 20px 0px;
+}
+
+
+#board table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#board form {
+    float:right;
+}
+#board #search-area form input[type="text"]{
+    width: 150px;
+    height: 25px;
+}
+
+#board #search-area form button {
+    padding: 3px 5px 3px 5px;
+}
+
+#board table>thead>tr>th, #board {
+    padding: 8px 5px 8px 5px;
+}
+
+/* 페이징 */
+#board #pager {
+    text-align: center;
+}
+
+
+#board #pager ol {
+   width: 190px;
+   /*margin: 0 auto;*/
+   display : inline-block;
+}
+
+#board #pager ol>li {
+   float: left;
+   margin: 0px 5px 0px 0px;}
+
+
+#board #pager ol>li>a.active {
+   font-size: 15px;
+   font-weight: bold;
+   color: #00ff00;
+}
+
+#board #pager #btn-write {
+   float: right;
+   border: 1px solid;
+   margin: 20px 0px 0px 0px;
+   padding: 5px 10px 5px 10px;
+   background-color: #dddddd;
+   border-radius: 2px;
+}
+
+
